@@ -6,7 +6,6 @@ import java.io.IOException;
 import javax.sound.sampled.AudioInputStream;
 import javax.sound.sampled.AudioSystem;
 import javax.sound.sampled.Clip;
-import java.nio.file.Path;
 import java.nio.file.Paths;
 
 public class Morse_sound
